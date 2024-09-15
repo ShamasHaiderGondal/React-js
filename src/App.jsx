@@ -1,19 +1,7 @@
-import About from "./assets/About"
-
-
-function App  ()  {
-
-  return (
-<>
-<About/>  
-<h1>hello world</h1>
-<button onClick={"oppen the page"}></button>
-
-
-</>
-  
-  
-  )
+const App = () =>{
+    return (
+        <h1>learninh git hub </h1>
+    )
 }
-
-export default (App)
+      
+    
